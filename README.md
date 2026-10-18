@@ -2,6 +2,9 @@
 
 ### A First-Person Animation Port for Minecraft 1.12.2 Forge
 
+<!-- CurseForge (Coming Soon) -->
+[![CurseForge](https://img.shields.io/badge/CurseForge-Coming_Soon-F16436?style=flat-square&logo=curseforge&logoColor=white)](#)
+
 **Bring more life to your first-person experience.**
 
 Hold My Items — Legacy Port is a legacy adaptation project aiming to bring the distinctive first-person item animations of Hold My Items to Minecraft 1.12.2.
