@@ -9,25 +9,29 @@
 [![CurseForge](https://img.shields.io/badge/CurseForge-Coming_Soon-F16436?style=flat-square&logo=curseforge&logoColor=white)](#)
 [![Modrinth](https://img.shields.io/badge/Modrinth-Not_Planned-1BD760?style=flat-square&logo=modrinth&logoColor=white)](#)
 
+---
+
 ### A First-Person Animation Port for Minecraft 1.12.2 Forge
 
 **Bring more life to your first-person experience.**
 
 Hold My Items — Legacy Port is a legacy adaptation project aiming to bring the distinctive first-person item animations of Hold My Items to Minecraft 1.12.2.
 
-This project focuses on expressive item movement, recognizable swing animations, and a more dynamic held-item experience within Minecraft's older rendering environment.
+This project focuses on expressive item movement, recognizable swing animations, and a more dynamic held-item experience within Minecraft's older rendering environment. (Which is 1.12.2)
 
-Because Minecraft 1.12.2 uses a substantially different rendering and modding architecture from modern Minecraft versions, some features require adaptation rather than direct backporting. This release prioritizes a functional animation foundation while documenting areas where behavior still differs from the intended experience.
+Just Because Minecraft 1.12.2 uses a substantially different rendering and modding architecture from modern Minecraft versions, some features require adaptation rather than direct backporting. This release prioritizes a functional animation foundation while documenting areas where behavior still differs from the intended experience.
 
 ---
 
 ## ✨ Features
 
+---
+
 ### ⚔️ Custom First-Person Swing Animations
 
-Supported tools and weapons receive custom swing behavior designed to make item use feel more expressive.
+Supported tools and weapons receive custom swing behavior designed to make item use feel more expressive from taken 1.21-1.21.5
 
-Currently supported:
+Currently supported rn:
 
 * Swords
 * Pickaxes
@@ -53,11 +57,11 @@ Keeping these interactions close to vanilla helps preserve expected gameplay beh
 
 The port targets the Minecraft 1.12.2 Forge environment rather than relying on modern rendering hooks.
 
-This means animation logic must account for the older first-person renderer, player-arm rendering, held-item transformations, and the interaction between vanilla rendering and modded code.
+This mean animation logic must account for the older first-person renderer, player-arm rendering, held-item transformations, and the interaction between vanilla rendering and modded code.
 
 ---
 
-## 🔬 Why Isn't Every Original Feature Available?
+## 🔬 Why Isnt Every Original Feature Available?
 
 A backport involves more than copying animation values or translating source code. Minecraft's rendering pipeline changes between versions, and the original implementation may depend on rendering hooks or internal classes that do not exist in the same form in 1.12.2.
 
@@ -129,9 +133,9 @@ These are development goals, not guarantees that every feature will be implement
 
 * **Minecraft:** 1.12.2
 * **Mod Loader:** Minecraft Forge
-* **Release basis:** 1.0
+* **Release basis (currently):** 1.0
 
-Use a compatible Minecraft 1.12.2 Forge installation.
+Please Use a compatible Minecraft 1.12.2 Forge installation or may cause crash.
 
 ---
 
