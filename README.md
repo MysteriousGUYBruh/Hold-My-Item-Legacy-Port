@@ -120,7 +120,7 @@ These are development goals, not guarantees that every feature will be implement
 
 * **Minecraft:** 1.12.2
 * **Mod Loader:** Minecraft Forge
-* **Release basis:** Tested animation Prototype 4.9
+* **Release basis:** 1.0
 
 Use a compatible Minecraft 1.12.2 Forge installation.
 
