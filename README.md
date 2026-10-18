@@ -6,10 +6,7 @@
   </a>
 </p>
 
-<!-- CurseForge (Coming Soon) -->
 [![CurseForge](https://img.shields.io/badge/CurseForge-Coming_Soon-F16436?style=flat-square&logo=curseforge&logoColor=white)](#)
-
-<!-- Modrinth (Not Planned) -->
 [![Modrinth](https://img.shields.io/badge/Modrinth-Not_Planned-1BD760?style=flat-square&logo=modrinth&logoColor=white)](#)
 
 ### A First-Person Animation Port for Minecraft 1.12.2 Forge
