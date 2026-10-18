@@ -1,9 +1,15 @@
 # Hold My Items — Legacy Port
 
-### A First-Person Animation Port for Minecraft 1.12.2 Forge
+<p align="center">
+  <a href="https://ibb.co.com/DP2qBjP9">
+    <img src="https://i.ibb.co.com/bj9f4Gjs/Tak-berjudul122-20261018160926.png" alt="DroidBridge Launcher" width="128" height="128">
+  </a>
+</p>
 
 <!-- CurseForge (Coming Soon) -->
 [![CurseForge](https://img.shields.io/badge/CurseForge-Coming_Soon-F16436?style=flat-square&logo=curseforge&logoColor=white)](#)
+
+### A First-Person Animation Port for Minecraft 1.12.2 Forge
 
 **Bring more life to your first-person experience.**
 
