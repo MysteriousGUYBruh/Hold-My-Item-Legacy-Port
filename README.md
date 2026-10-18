@@ -1,10 +1,10 @@
-# Hold My Items — Legacy Port
-
 <p align="center">
   <a href="https://ibb.co.com/DP2qBjP9">
     <img src="https://i.ibb.co.com/bj9f4Gjs/Tak-berjudul122-20261018160926.png" alt="DroidBridge Launcher" width="128" height="128">
   </a>
 </p>
+
+<h1 align="center">Hold My Item (BACKPORT)</h1>
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-Coming_Soon-F16436?style=flat-square&logo=curseforge&logoColor=white)](#)
 [![Modrinth](https://img.shields.io/badge/Modrinth-Not_Planned-1BD760?style=flat-square&logo=modrinth&logoColor=white)](#)
