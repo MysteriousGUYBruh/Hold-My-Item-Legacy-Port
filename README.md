@@ -13,9 +13,9 @@
 
 ### A First-Person Animation Port for Minecraft 1.12.2 Forge
 
-**Bring more life to your first-person experience.**
+**Backport Hold My Item??**
 
-Hold My Items — Legacy Port is a legacy adaptation project aiming to bring the distinctive first-person item animations of Hold My Items to Minecraft 1.12.2.
+Hold My Items — Legacy Port is a legacy adaptation project aiming to bring the distinctive first-person item animations of Hold My Items (Reforged) to Minecraft 1.12.2.
 
 This project focuses on expressive item movement, recognizable swing animations, and a more dynamic held-item experience within Minecraft's older rendering environment. (Which is 1.12.2)
 
@@ -61,7 +61,7 @@ This mean animation logic must account for the older first-person renderer, play
 
 ---
 
-## 🔬 Why Isnt Every Original Feature Available?
+## 🔬 Why Some Isnt Every Original Feature Available?
 
 A backport involves more than copying animation values or translating source code. Minecraft's rendering pipeline changes between versions, and the original implementation may depend on rendering hooks or internal classes that do not exist in the same form in 1.12.2.
 
@@ -131,8 +131,8 @@ These are development goals, not guarantees that every feature will be implement
 
 ## 📦 Compatibility
 
-* **Minecraft:** 1.12.2
-* **Mod Loader:** Minecraft Forge
+* **Minecraft Version:** 1.12.2
+* **Mod Loader:** Forge Loader
 * **Release basis (currently):** 1.0
 
 Please Use a compatible Minecraft 1.12.2 Forge installation or may cause crash.
